@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Hong Yan&#39;s Blog</title>
+    <link>https://youming1997.github.io/about/</link>
+    <description>Recent content in Abouts on Hong Yan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 22:39:36 +0800</lastBuildDate><atom:link href="https://youming1997.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://youming1997.github.io/about/about/</link>
+      <pubDate>Mon, 28 Sep 2020 22:39:36 +0800</pubDate>
+      
+      <guid>https://youming1997.github.io/about/about/</guid>
+      <description>个人简介 大家好, 我是红颜, 一名热爱编程,但不想头秃的程序员, 目前从事C/C++方面的工作
+简介  出生地: 东北这旮瘩的 年龄: 23 性别: 男 常用语言: C/C++  </description>
+    </item>
+    
+  </channel>
+</rss>
